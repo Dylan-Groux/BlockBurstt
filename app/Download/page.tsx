@@ -26,7 +26,7 @@ export default function page() {
                   </button>
                 </Link>
               </div>
-              <div className=" mt-32 flex items-center justify-center">
+              <div className=" mt-16 flex items-center justify-center">
               <Image className="b-logo-dl" src="/logo.png" alt="logo for BlockBurst" width={445} height={189} />
               </div>
               <div className="text-center items-center justify-center flex w-full font-Jaro font-semibold text-white mt-16">

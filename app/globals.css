@@ -84,11 +84,11 @@
     position: absolute;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.36);
-    height: 3500px;
+    height: 2500px;
   }
 
   .block-burst {
-    margin-top: 360px;
+    margin-top: 160px;
   }
 
   .blockburst-text {
@@ -96,8 +96,8 @@
   }
 
   .p-join {
-    margin-top: 1px;
-    margin-left: 240px;
+    margin-top: -175px;
+    margin-left: 370px;
     font-size: 20px;
   }
 
@@ -111,8 +111,8 @@
     justify-items: center;
     border-radius: 96px;
     background-color: #3f559e;
-    margin-top: 28px;
-    margin-left: 226px;
+    margin-top: 8px;
+    margin-left: 356px;
     }
     
     .footer {
@@ -130,14 +130,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 1000px;
+    margin-top: 600px;
   }
 
 
 
   
   .b-logo-dl {
-    width: auto;
+    width: 375px;
     height: auto;
   }
 
@@ -147,6 +147,14 @@
     background-color: rgba(0, 0, 0, 0.36);
     height: 1250px;
   }
+
+  .bg-hero2 {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.36);
+    height: 1550px;
+  }
+
 
   .recf-1-supp {
     width: 450px;

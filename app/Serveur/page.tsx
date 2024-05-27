@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function page() {
     return (
-        <main className="bg-hero1 bg-cover bg-no-repeat">
+        <main className="bg-hero2 bg-cover bg-no-repeat">
             <div className=" p-10 text-white flex items-center justify-center text-3xl font-semibold">
                 <Link href="./">
                   <button className="relative group p-2 rounded-lg mr-16"> Accueil
