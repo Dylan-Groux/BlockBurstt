@@ -39,7 +39,7 @@ export default function page() {
         <div className="flex justify-center items-center">
           <div className="text-white recf-1">
             <div>
-              <p className="text-3xl font-semibold">JOUEUR.SERV.FR</p>
+              <p className="text-3xl font-semibold">block-bust.mine.fun</p>
             </div>
           </div>
         </div>

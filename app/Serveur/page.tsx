@@ -35,14 +35,14 @@ export default function page() {
             <div className="flex justify-center items-center mt-8">
                 <div className="text-white recf-1-supp">
                     <div>
-                    <a className="text-3xl font-semibold">IP-SERV.NET</a>
+                    <a className="text-3xl font-semibold">block-bust.mine.fun</a>
                     </div>
                 </div>
             </div>
             <div className="flex-col items-center justify-center text-center text-white p-1 mt-8">
                 <p className="mt-5">Instructions pour Rejoindre l'Aventure :</p>
                 <p className="mt-5">1. Télécharge le modpack en cliquant sur Download. 🚀</p>
-                <p className="mt-5">2. Lance Minecraft sur la version X.XX. 🎮</p>
+                <p className="mt-5">2. Lance Minecraft sur la version 1.16.5 de Forge. 🎮</p>
                 <p className="mt-5">3. Va dans "Multijoueur" puis clique sur "Ajouter un nouveau serveur". 🌍</p>
                 <p className="mt-5">4. Saisis l'adresse IP que tu trouveras juste au-dessus. 💻</p>
                 <p className="mt-5">Et voilà ! Prépare-toi pour une aventure incroyable avec notre communauté de joueurs expérimentés. 🎉</p>

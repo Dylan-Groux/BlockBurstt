@@ -27,11 +27,13 @@ export default function page() {
             </button>
           </Link>
         </div>
-        <div className="bg-white-1 container mt-10">
-            <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
-            <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
+        <div className="bg-white-1 container mt-10 flex items-center justify-center">
+          <p>Coming Soon!</p>
 
+{/*             <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
+            <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
+            <a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5358789" className="mt-2 text-2xl flex items-center justify-center">One piece mods</a>
+ */}
 
         </div>
       </main>
